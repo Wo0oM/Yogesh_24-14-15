@@ -1,7 +1,8 @@
 #Assignment : 2
 #Yogesh
 #24-14-15
-#AM609: Data Science Tools and Techniques 
+#AM609: Data Science Tools and Techniques
+#Programme: Modelling and Simulation
 
 import numpy as np
 
@@ -98,7 +99,8 @@ print("\n mean of normalized :\n",mean_new,"\nStandard deviation of normalized :
 
 #Q3
 
-print("\n\Q3\n")
+
+print("\n\nQ3\n")
 def vendermonde(N):
     vec = np.arange(N) + 1
     vec = vec.reshape(-1,1)
