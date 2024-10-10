@@ -1,7 +1,7 @@
 #Assignment : 2
 #Yogesh
 #24-14-15
-#
+#AM609: Data Science Tools and Techniques 
 
 import numpy as np
 
@@ -130,4 +130,4 @@ for i in range(10):
 
 
 
-#Github link : 
+#Github link : https://github.com/Wo0oM/Yogesh_24-14-15.git
