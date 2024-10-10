@@ -98,6 +98,7 @@ print("\n mean of normalized :\n",mean_new,"\nStandard deviation of normalized :
 
 #Q3
 
+print("\n\Q3\n")
 def vendermonde(N):
     vec = np.arange(N) + 1
     vec = vec.reshape(-1,1)
